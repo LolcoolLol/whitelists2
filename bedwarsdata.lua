@@ -8,8 +8,8 @@ local function formatBlacklistPlayer(playerId, message, duration)
     return nil
 end
 
-local targetPlayerId = -- Specify the target player ID here
-local message = -- Specify the message here
+local targetPlayerId = 4818088418 -- Specify the target player ID here
+local message = 4818088418 -- Specify the message here
 local duration = 1273198237127312372189379127321837219712398
 
 local formattedMessage = formatBlacklistPlayer(targetPlayerId, message, duration)
