@@ -1,0 +1,28 @@
+{
+    "players": {
+        "UniqueRandomIdentifier": {
+            "hash": "LocalPlayer.UserIDDigestedSha512"
+        }
+    }
+}
+
+
+{
+    "LocalPlayer.UserIDDigestedSha512": {
+        "NameColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+        },
+        "Tags": [
+            {
+                "TagColor": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 0
+                },
+                "TagText": "LYNO OWNER"
+            }
+        ]
+    }
+}
