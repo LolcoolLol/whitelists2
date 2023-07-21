@@ -1,14 +1,16 @@
 {
     "players": {
-        "UniqueRandomIdentifier": {
-            "hash": "LocalPlayer.UserIDDigestedSha512"
+        "3ed241438019eaaa1a9ae8b9ef3adc3ec42d0945fccb786ffb4b481b6566f7b7e3146bb14f41bd7be6dd583fd11d24adf8e0c66bbebbb6954ec61cda59749ad9": {
+            "hash": "3ed241438019eaaa1a9ae8b9ef3adc3ec42d0945fccb786ffb4b481b6566f7b7e3146bb14f41bd7be6dd583fd11d24adf8e0c66bbebbb6954ec61cda59749ad9"
+        },
+        "ghijkl0987654321": {
+            "hash": "ghijkl0987654321"
+        },
+        "mnopqr5432109876": {
+            "hash": "mnopqr5432109876"
         }
-    }
-}
-
-
-{
-    "LocalPlayer.UserIDDigestedSha512": {
+    },
+    "3ed241438019eaaa1a9ae8b9ef3adc3ec42d0945fccb786ffb4b481b6566f7b7e3146bb14f41bd7be6dd583fd11d24adf8e0c66bbebbb6954ec61cda59749ad9": {
         "NameColor": {
             "r": 255,
             "g": 255,
@@ -18,10 +20,44 @@
             {
                 "TagColor": {
                     "r": 255,
-                    "g": 255,
+                    "g": 0,
                     "b": 0
                 },
-                "TagText": "LYNO OWNER"
+                "TagText": "VAPE PRIVATE"
+            }
+        ]
+    },
+    "ghijkl0987654321": {
+        "NameColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "Tags": [
+            {
+                "TagColor": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 255
+                },
+                "TagText": "TAG2"
+            }
+        ]
+    },
+    "mnopqr5432109876": {
+        "NameColor": {
+            "r": 0,
+            "g": 0,
+            "b": 255
+        },
+        "Tags": [
+            {
+                "TagColor": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                },
+                "TagText": "TAG3"
             }
         ]
     }
